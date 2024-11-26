@@ -1,6 +1,6 @@
 # Hi 👋, I'm Naufal Aufaa Abyan
 
-*"Sometimes I Feel 'NOPAL ANJAYYY'"*
+*"Sometimes I Feel 'Super Star'"*
 
 ---
 
