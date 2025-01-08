@@ -25,3 +25,5 @@
 [![](https://visitcount.itsvg.in/api?id=NaufalAufaaAbyan&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake git](https://github.com/NaufalAufaaAbyan/NaufalAufaaAbyan/blob/output/github-snake-dark.svg)
