@@ -12,7 +12,6 @@
 ## 📌 About Me
 - Informatics Engineering student passionate about technology
 - Focused on blockchain, backend, and frontend development
-- Active contributor at UNAMA Blockchain Club (Superteam Indonesia)
 - Building real-world projects and digital solutions
 - Interested in Web3 and decentralized systems
 - Continuously learning and improving as a developer
