@@ -1,0 +1,119 @@
+<div align="right">
+  <a href="README.md">🇬🇧 English</a> | <a href="README-id.md">🇮🇩 Indonesia</a>
+</div>
+
+<h1 align="center">
+  Halo <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Saya Naufal Aufaa Abyan
+</h1>
+<h3 align="center">Blockchain Engineer | Fullstack Developer | Web3 Innovator</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=naufalaufaaabyan">
+    <img src="https://komarev.com/ghpvc/?username=naufalaufaaabyan&label=Kunjungan%20Profil&color=00FFFF&style=flat-square" alt="naufalaufaaabyan's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+---
+
+## 📌 Tentang Saya
+Selamat datang di ruang kerja digital saya! Saya adalah seorang developer yang berfokus pada titik temu antara teknologi terdesentralisasi, keuangan, dan kecerdasan buatan (AI). Tujuan saya adalah merancang solusi *on-chain* yang terukur untuk menjembatani sistem tradisional dengan Web3.
+
+- ⚡ **Merancang** aplikasi terdesentralisasi (dApps) di seluruh ekosistem **Solana** dan **Ethereum**.
+- 🔗 **Sangat tertarik** dengan tokenisasi Real World Assets (RWA), infrastruktur GameFi, dan Autonomous AI Agents untuk analisis ekonomi.
+- 🛠 **Saat ini sedang membangun** infrastruktur tingkat protokol dan mengeksplorasi paradigma *smart contract* tingkat lanjut.
+- 🚀 **Bercita-cita** untuk masuk ke ekosistem teknologi global dan terus menembus batas inovasi *on-chain*.
+
+---
+
+## 🚀 Proyek & Ekosistem Pilihan
+
+> **[Axeon Protocol](https://github.com/NaufalAufaaAbyan/Axeon-Protocol.git)** 
+> Protokol infrastruktur manajemen dan langganan terdesentralisasi yang tangguh, dirancang untuk layanan Web3 generasi berikutnya.
+
+> **VeritasVote** 
+> Protokol tata kelola pemungutan suara terdesentralisasi *full-stack* yang memanfaatkan Ethereum Smart Contracts untuk pengambilan keputusan yang transparan dan tidak dapat diubah (immutable).
+
+> **Stack Block Arcade** 
+> Pengalaman GameFi *arcade on-chain* yang imersif, menggabungkan mekanika *gaming* klasik dengan *reward blockchain*.
+
+---
+
+## 💻 Tumpukan Teknologi & Peralatan
+
+### ⛓️ Blockchain & Smart Contracts
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+</p>
+
+### 🌐 Fullstack Development
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### 🛠️ Peralatan & Arsitektur
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux_Solana-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Solana" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📈 Analitik GitHub
+
+<div align="center">
+  <a href="https://github.com/naufalaufaaabyan">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalaufaaabyan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="naufalaufaaabyan's GitHub Stats" width="48%" />
+  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalaufaaabyan&langs_count=6&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=naufalaufaaabyan&theme=dracula&hide_border=true&cache_seconds=86400" alt="naufalaufaaabyan's GitHub Streak" width="100%" />
+</div>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naufalaufaaabyan&theme=dracula&radius=10" alt="Grafik Aktivitas naufalaufaaabyan" />
+</p>
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+---
+
+## 📬 Mari Terhubung
+
+<p align="center"> 
+  <a href="mailto:naufalaufaaabyan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <a href="https://wa.me/62089504279396" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/naufalaufaaabyan" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <br>
+  <a href="https://www.thegitcity.com/?ref=naufalaufaaabyan" style="color: #00FFFF; text-decoration: none;"><b>🏙️ Jelajahi Git City Saya</b></a>
+</div>
