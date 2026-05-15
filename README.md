@@ -1,5 +1,15 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Naufal Aufaa Abyan</h1>
-<h3 align="center">Informatics Engineering Student | Blockchain & Fullstack Developer</h3>
+<div align="right">
+  <a href="README.md">🇬🇧 English</a> | <a href="README-id.md">🇮🇩 Indonesia</a>
+</div>
+
+<div align="right">
+  <a href="README.md">🇬🇧 English</a> | <a href="README-id.md">🇮🇩 Indonesia</a>
+</div>
+
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Naufal Aufaa Abyan
+</h1>
+<h3 align="center">Blockchain Engineer | Fullstack Developer | Web3 Innovator</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=naufalaufaaabyan">
@@ -9,71 +19,105 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+---
+
 ## 📌 About Me
-- Informatics Engineering student passionate about technology
-- Focused on blockchain, backend, and frontend development
-- Building real-world projects and digital solutions
-- Interested in Web3 and decentralized systems
-- Continuously learning and improving as a developer
+Welcome to my digital workspace! I am a passionate developer focusing on the intersection of decentralized technologies, finance, and artificial intelligence. My goal is to architect scalable on-chain solutions that bridge the gap between traditional systems and Web3.
 
+- ⚡ **Architecting** decentralized applications (dApps) across the **Solana** and **Ethereum** ecosystems.
+- 🔗 **Fascinated by** the tokenization of Real World Assets (RWA), GameFi infrastructure, and Autonomous AI Agents for economic analysis.
+- 🛠 **Currently building** protocol-level infrastructures and exploring advanced smart contract paradigms.
+- 🚀 **Aiming for** global tech ecosystems and continuously pushing the boundaries of what's possible on-chain.
 
-## 🧠 My Focus Areas
-- Blockchain Development
-- Backend Development
-- Frontend Development
-- Fullstack Development
-- Web3 Applications
+---
 
+## 🚀 Featured Ecosystems & Projects
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/naufalaufaaabyan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalaufaaabyan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="naufalaufaaabyan's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=naufalaufaaabyan&theme=dracula&hide_border=true&cache_seconds=86400" alt="naufalaufaaabyan's GitHub Streak" width="49%" />
+> **[Axeon Protocol](https://github.com/NaufalAufaaAbyan/Axeon-Protocol.git)** 
+> A robust decentralized management and subscription infrastructure protocol designed for the next generation of Web3 services.
+
+> **VeritasVote** 
+> A full-stack decentralized governance voting protocol utilizing Ethereum Smart Contracts for transparent and immutable decision-making.
+
+> **Stack Block Arcade** 
+> An immersive, on-chain arcade GameFi experience blending classic gaming mechanics with blockchain rewards.
+
+---
+
+## 💻 Tech Stack & Arsenal
+
+### ⛓️ Blockchain & Smart Contracts
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
 </p>
+
+### 🌐 Fullstack Development
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### 🛠️ Tools & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux_Solana-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Solana" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/naufalaufaaabyan">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalaufaaabyan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="naufalaufaaabyan's GitHub Stats" width="48%" />
+  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalaufaaabyan&langs_count=6&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=naufalaufaaabyan&theme=dracula&hide_border=true&cache_seconds=86400" alt="naufalaufaaabyan's GitHub Streak" width="100%" />
+</div>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naufalaufaaabyan&theme=dracula&radius=10" alt="naufalaufaaabyan's Activity Graph" />
 </p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/naufalaufaaabyan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalaufaaabyan&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="left"> <a href="mailto:naufalaufaaabyan@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Naufal Aufaa Abyan's Email"/></a> <a href="https://wa.me/62089504279396" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/buymeacoffee.com/naufalaufaaabyan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+---
+
+## 📬 Let's Connect
+
+<p align="center"> 
+  <a href="mailto:naufalaufaaabyan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <a href="https://wa.me/62089504279396" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/naufalaufaaabyan" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <br>
+  <a href="https://www.thegitcity.com/?ref=naufalaufaaabyan" style="color: #00FFFF; text-decoration: none;"><b>🏙️ Explore My Git City</b></a>
 </div>
-
-https://www.thegitcity.com/?ref=naufalaufaaabyan
